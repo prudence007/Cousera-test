@@ -1,3 +1,3 @@
 # Cousera-test
+theme: jekyll-theme-Cayman
 Cousera test repository
-theme: jekyll-theme-minimal
